@@ -34,5 +34,8 @@ int main() {
 	print_sum(-5, 10);      // -5 + 10 = 5
 	print_sum(INT_MAX, 1);  // Ошибка переполнения
 
+	// Вывод в консоль "Hello, world!"
+	cout << "Hello, everybody!";
+
 	return 0;
 }
