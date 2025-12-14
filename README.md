@@ -8,7 +8,7 @@
 ### Использованные технологии:
 - C++ 
 - GitHub
-- GitHub Desctop
+- GitHub Desktop
 
 ### Как запустить:
 ```bash
