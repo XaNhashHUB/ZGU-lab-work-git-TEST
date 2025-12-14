@@ -11,7 +11,7 @@ int Summ(int a, int b) {
 int main() {
 
 	// Вывод в консоль "Hello, world!"
-	cout << "Hello, world!";
+	cout << "Hello, everybody!";
 
 	return 0;
 }
